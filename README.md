@@ -13,7 +13,7 @@ This program allows you to extract metadata from images.
 
 2. Install dependencies:
    ````
-   pip install -r requirements.txt
+   pip install pillow argparse
    ```
 
 ## Usage
