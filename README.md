@@ -1,4 +1,3 @@
-Certainly! Here's a simplified version of the README.md content for the Image Metadata Extractor program:
 
 # Image Metadata Extractor
 
