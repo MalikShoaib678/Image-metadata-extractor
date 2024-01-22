@@ -6,24 +6,24 @@ This program allows you to extract metadata from images.
 ## Installation
 
 1. Clone the repository:
-   ````
+   ```
    git clone https://github.com/MalikShoaib678/Image-metadata-extractor.git
    ```
 
 2. Install dependencies:
-   ````
+   ```
    pip install pillow argparse
    ```
 
 ## Usage
 
 1. Navigate to the project directory:
-   ````
+   ```
    cd Image-metadata-extractor
    ```
 
 2. Run the program:
-   ````
+   ```
    python main.py
    ```
 
